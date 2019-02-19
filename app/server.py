@@ -9,7 +9,8 @@ from fastai import *
 from fastai.vision import *
 
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1OxdPrdgjOMRQA_M8ndRExv1MwVCdgFvF'
+#export_file_url = 'https://drive.google.com/uc?export=download&id=1OxdPrdgjOMRQA_M8ndRExv1MwVCdgFvF'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1iiwezYE-VXvB9gL6sl-3M4F9Q5IUSbqe'
 export_file_name = 'export.pkl'
 
 classes = ['baboon', 'black', 'chinaboy']
